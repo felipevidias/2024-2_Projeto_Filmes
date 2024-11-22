@@ -42,3 +42,4 @@
 /home/felipe/PUC/2024-2_4P/2024-2_BD/teste_interface/FilmesDoIlo/obj/Debug/net8.0/FilmesDoIlo.pdb
 /home/felipe/PUC/2024-2_4P/2024-2_BD/teste_interface/FilmesDoIlo/obj/Debug/net8.0/FilmesDoIlo.genruntimeconfig.cache
 /home/felipe/PUC/2024-2_4P/2024-2_BD/teste_interface/FilmesDoIlo/obj/Debug/net8.0/ref/FilmesDoIlo.dll
+/home/felipe/PUC/2024-2_4P/2024-2_BD/teste_interface/FilmesDoIlo/bin/Debug/net8.0/Newtonsoft.Json.dll
