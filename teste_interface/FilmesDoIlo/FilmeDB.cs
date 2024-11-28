@@ -16,7 +16,7 @@ namespace FilmesDoIlo
                                     id INT AUTO_INCREMENT PRIMARY KEY,
                                     titulo VARCHAR(100) NOT NULL,
                                     diretor VARCHAR(100),
-                                    ano INT,
+                                    VARCHAR(10) INT,
                                     genero VARCHAR(50)
                                 );";
                 using (MySqlCommand cmd = new MySqlCommand(query, conn))
